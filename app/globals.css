@@ -3,3 +3,15 @@
 * {
   font-family: Outfit;
 }
+
+.lighthover {
+  color: #fcf4ff;
+}
+
+.darkhover {
+  color: #2a004a;
+}
+
+.darktheme {
+  color: #11001a;
+}
